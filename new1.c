@@ -5,4 +5,8 @@ int main(void){
     int nahyoun;
     int sky;
     char naram;
+
+    //add
+    // add
+    // add
 }
